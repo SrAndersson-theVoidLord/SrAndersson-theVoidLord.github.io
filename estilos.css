@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    --form-gap: 20px;
+}
+
+h1{
+    margin: 0 0 1em;
+    padding: 1em;
+    background: #670F0F;
+    color: #fff;
+    text-align: center;
+    font: 32px "Rubik One", sans-serif;
+}
+
+h2{
+    font-variant: small-caps;
+    color: #670F0F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10vw;
+    width: 80%;
+    margin: auto;
+    gap: 40px;
+    align-items: flex-start;
+}
+img{
+    border-radius: 50%;
+}
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    gap: 10px var( --form-gap ); 
+}
+
+form > div{
+    width: calc( 50% - ( var(--form-gap) / 2 ) );
+}
+
+form > div.large,
+form h2{
+    width: 100%;
+}
+
+input,
+select,
+textarea{
+    display: block;
+    width: 100%;
+    padding: 8px 15px;
+    outline: none;
+    resize: none;
+}
+
+button{
+    background: #670F0F;
+    color: #fff;
+    width: 50%;
+    margin: auto;
+    border: none;
+    outline: none;
+}
+
+
+
+
+
+
+
+
