@@ -1,0 +1,246 @@
+/*HTML5 MODIFICADO*/
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #000000;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23626263' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+strong{
+    font-size: x-large;
+}
+
+h1{ font-size: 66px; font-weight: 600; line-height: 80px; color: honeydew;}
+h2{ font-size: 48px; margin-bottom: 30px; color: honeydew;}
+h3{ color: white; }
+
+p{
+    font-size: 18px;
+    color:white;
+    margin-bottom: 0;
+    line-height: 1.8;
+}
+
+li{
+    color: white;
+}
+
+section{
+    padding: 120px 0;
+}
+
+ion-icon{
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-trasition: .5s;
+    transition: .5s;
+    color: white;
+}
+
+ion-icon:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    color: orangered;
+}
+
+/*Clases custom*/
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.btn{
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-trasition: .5s;
+    transition: .5s;
+    font-size: 14px;
+    padding: 15px 26px;
+    min-width: 160px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.btn:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+.btn-light{
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+}
+
+.btn ion-icon {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.topmargin-xs{margin-top: 15px;}
+.topmargin-sm{margin-top: 30px;}
+.topmargin-lg{margin-top: 60px;}
+
+.navbar {
+    background-color: #3f3f3f;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0);
+    min-height: 20px;
+}
+
+
+.nav-item{
+    padding: 10px;
+}
+
+.nav-link{ 
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-trasition: .5s;
+    transition: .5s;
+    color: white;
+}
+.nav-link:hover { 
+    border-bottom: 1px solid;
+    color: orangered;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+
+.logo-brand {
+    min-width: 55px;
+    max-width: 75px;
+    color: white;
+}
+.navbar-toggler { font-size: 40px; }
+.navbar-toggler:focus { outline: none; }
+
+.navbar-brand{
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-trasition: .5s;
+    transition: .5s;
+    color: rgb(255, 255, 255); 
+}
+.navbar-brand:hover { 
+    border-bottom: 1px solid; 
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    color: orangered;
+
+}
+
+.content-center{
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+
+}
+
+.bg-gray{
+    background-color: #3f3f3f !important ;
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.progress-bar{
+    background-color: rgb(38, 173, 26) !important;
+}
+
+.card-text {
+    color: white;
+    font-size: 100%;
+}
+
+.card-title{
+    color: white;
+}
+
+.card{
+    background: black;
+    border-color: white;
+}
+
+/*ID CUSTOM*/
+#hero{
+    /*background-image: url('IMAGES/HERO.jpg');*/
+    background-size: cover;
+    padding: 40px auto;
+    min-height: 700px;
+    margin: 50px;
+    color: white;
+}
+#EXP_LAB{
+    /*background-image: url('IMAGES/HERO.jpg');*/
+    background-size: cover;
+    padding: 40px auto;
+    min-height: 700px;
+    margin: 50px;
+    color: white;
+}
+
+#EXP_LAB a{
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-trasition: .5s;
+    transition: .5s;
+    color: white;
+}
+
+#EXP_LAB a:hover{
+    color: orangered;
+}
+
+#info{
+    /*background-image: url('IMAGES/HERO.jpg');*/
+    background-size: cover;
+    padding: 40px;
+    min-height: 700px;
+    margin: 50px;
+    color: white;
+}
+
+#hero p{
+    color: white;
+}
+
+#footer{
+    padding: 5px;
+    text-align: center;
+    color: white;
+    background-color: #3f3f3f;
+}
+
+#footer a{
+    color: white;
+
+}
+#footer a:hover{
+    color: orangered;
+    
+}
+
+#footer p{
+    color: white;
+    padding: 15px 26px;
+}
+
+/*PANTALLA DINAMICA*/
+@media (max-width: 575.98px) { 
+    h1 {font-size: 40px; line-height: normal;} 
+}
+
+
+

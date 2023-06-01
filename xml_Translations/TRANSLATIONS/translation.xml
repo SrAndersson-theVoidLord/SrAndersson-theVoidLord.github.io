@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<en>
+		<profession>Developer/Software Engineer</profession>
+		<residence>Residence:</residence>
+		<city>City:</city>
+		<age>Age:</age>
+		
+		<languages>Languages:</languages>
+		<languages_1>Spanish</languages_1>
+		<languages_2>English</languages_2>
+		<languages_3>German</languages_3>
+		<hard_skills>Hard Skills:</hard_skills>
+		<git_knowledge>GIT knowledge</git_knowledge>
+		<database_knowledge>SQL/MySQL Database</database_knowledge>
+		<scrum_knowledge>Scrum</scrum_knowledge>
+		<server_infrastructure>Server infrastructure</server_infrastructure>
+		<linux_knowledge>Kali Linux</linux_knowledge>
+
+		<soft_skills> Soft Skills:</soft_skills>
+		<focus_Group>Team Work</focus_Group>
+		<companionship>Fellowship</companionship>
+		<dialog>Dialogue capacity</dialog>
+		<leadership>Leadership</leadership>
+		<responsability>Responsibility</responsability>
+		<analisis>Analysis and problem solving</analisis>
+		<selftaught>Self taught</selftaught>
+		<versatility>Adaptability/versatility </versatility>
+
+		<developments>Developments</developments>
+
+		<softwareSpace>Software Development, server architecture and more... </softwareSpace>
+		<aboutMe>About Me</aboutMe>
+		<description>Description:</description>
+		<personalDescription> Hello! My name is Lucas Nicolás Greco, I am </personalDescription>
+		<personalDescription2>  years old and I live in Zona Norte, Buenos Aires.
+                                I am a technician with vast experience dedicated to Hardware.
+                                I graduated as a University Technician in Programming where I learned the languages: ​​C, C++, C#,
+                                SQL Server, HTML, CSS and Java. Also concepts and practices with GIT.
+                                I have knowledge and experience in JavaScript, Vue.JS, Node.JS and SQL.</personalDescription2>
+		
+		
+		
+		<experience>Years Experience</experience>
+		<projects>Completed Projects</projects>
+		<download_CV>Download CV</download_CV>
+		<information>Contact information:</information>
+		<country>Country: </country>
+		<localCity>City: </localCity>
+		<street>Street: </street>
+		<email>Email: </email>
+		<signalUser>Signal Nickname: </signalUser>
+		<discordID>Discord: </discordID>
+		<phone>Phone Number: </phone>
+		<officePhone>Office Phone Number: </officePhone>
+		<cellPhone>Personal CellPhone Number: </cellPhone>
+		<socialNetworks>Get in touch</socialNetworks>
+
+		<education>Education: </education>
+
+<university> National Technical University (UTN - FRGP) </university>
+<universityClass>Student</universityClass>
+<universityDate>February 2017 - July 2021</universityDate>
+<universityDescription>Took a little longer than I anticipated,
+as he was also working part-time while dealing with some family issues.
+During my time at university I learned to program in C, C++, some C#,
+and a bit of Java, as well as CSS and Javascript for the front-end web applications.
+I finally graduated as a Software Programmer Engineer in 2021.</universityDescription>
+
+<selftaughtStudies>Low Level Programming (self-taught)</selftaughtStudies>
+<selftaughtStudiesClass>Student </selftaughtStudiesClass>
+<selftaughtStudiesDate>July 2017 - Dec 2017 </selftaughtStudiesDate>
+<selftaughtStudiesDescription>I took a crash course investigating low-level programming that included assembler, Bash, shell, batch,
+and bat scripting, to learn how to automate services (Linux), optimize performance (Windows),
+and manage different tasks and resources on different operating systems. </selftaughtStudiesDescription>
+
+<selftaughtWeb> Web Development Courses (Various) </selftaughtWeb>
+<selftaughtWebClass>Student</selftaughtWebClass>
+<selftaughtWebDate>January 2018 - July 2021</selftaughtWebDate>
+<selftaughtWebDescription> </selftaughtWebDescription>
+
+<english> English(F.C.E.) </english>
+<englishClass>Student</englishClass>
+<englishDate>January 2016 - December 2016</englishDate>
+<englishDescription>After 6 years of studying English, I took the whole year to prepare for the First Certificate of English final exam. </englishDescription>
+
+<technician> Electro-Mechanical Technician (Doctor Juan Segundo Fernández Institute) </technician>
+<technicianClass>Student</technicianClass>
+<technicianDate>March 2009 - December 2015</technicianDate>
+<technicianDescription>I studied in a technical high school where I graduated as an electro-mechanical technician, in the same I learned about Carpentry, Electricity, Low level programming, Automation with PLC's, Design of plans by hand and with AutoCAD and 3D CAD, Lathe handling Parallel, milling cutter, CNC lathes and machining center. I graduated in 2015 since in Argentina the technicians do 1 more year of high school to finish specializing professionally.
+</technicianDescription>
+<technicianCertificate>Certificate</technicianCertificate>
+
+<workHistory> Work experience (in general): </workHistory>
+
+<work1position>JavaScript Developer</work1position>
+<work1date>July 2021 - October 2022</work1date>
+<work1description> Developer in JavaScript:
+                             - Programming and development tailored to the client on a web platform
+                             Esker with SAP integration.
+                             - Automation of order taking via WEB and Mobile interface.
+                             - Integration with different APIs through SOAP web services and
+                             REST, and integrations to SAP.
+                             - Support to international and national clients via mail/meetings.</work1description>
+<work2position>Developer/Support</work2position>
+<work2date>March 2022 - August 2022</work2date>
+<work2description> Developer in JavaScript:
+- Programming and development tailored to the client on a web platform
+                             Esker with SAP integration.
+                             - Automation of order taking via WEB interface
+                           -Esker support to Techdata clients in APAC/EMEA/USA </work2description>
+
+<work5position>Secretary of the Postgraduate Office / Secretary of the Automotive Engineering office</work5position>
+<work5date>February 2019 - October 2021</work5date>
+<work5description>Office tasks (Various):
+                             - Registration of students
+                             - Verification/closing of budgets
+                             - Upload of qualifications from both offices within the internal system of the university (SYSACAD)
+                             - Equipment maintenance (Projectors, Notebooks, Networks)
+                             - Maintenance of office computers as well as installation of office software (Office suite, etc.).</work5description>
+<work3position>PC Repair</work3position>
+<work3date>January 2016 - July 2021</work3date>
+<work3description>Assembly/cleaning/Maintenance of PC's, NAS Servers, Network Installations
+                             Maintenance tasks (Various):
+                             - Backup/formatting of hard drives.
+                             - OS installation (Windows/Linux).
+                             - Windows 10 optimization (For low-resource computers).
+                             - Diagnosis and solution of errors.
+                             - Change of components (thermal pastes, and other components).</work3description>
+<work4position>Electromechanical Technician</work4position>
+<work4date>January 2015 - January 2016</work4date>
+<work4description>Electro-mechanical Maintenance of Industrial Pressure Washers:
+                             - Diagnosis and solution of mechanical, electrical, or other problems.
+                             - Cleaning, maintenance and change of pressure valves.
+                             - Cleaning, maintenance of boiler system.
+                             - Maintenance and change of PLC's and other electrical components.</work4description>
+		
+	</en>
+	<es>
+		<profession>Desarrollador/Técnico programador</profession>
+		<residence>Residencia:</residence>
+		<city>Ciudad:</city>
+		<age>Edad:</age>
+		<languages>Idiomas:</languages>
+		<languages_1>Español</languages_1>
+		<languages_2>Inglés</languages_2>
+		<languages_3>Alemán</languages_3>
+		<hard_skills>Habilidades Técnicas:</hard_skills>
+		<git_knowledge>Conocimiento/manejo de herramientas de repositorios (GIT)</git_knowledge>
+		<database_knowledge>Uso de SQL/MySQL Database</database_knowledge>
+		<scrum_knowledge>Metodologias Scrum</scrum_knowledge>
+		<server_infrastructure>Infraestructura de servidores</server_infrastructure>
+		<linux_knowledge> Manejo de distribuciones Linux basadas en Debian (Kali Linux)</linux_knowledge>
+
+		<soft_skills> Soft Skills:</soft_skills>
+		<focus_Group>Trabajo en equipo</focus_Group>
+		<companionship>Compañerismo</companionship>
+		<dialog>Capacidad de Dialogo</dialog>
+		<leadership>Capacidad de liderazgo</leadership>
+		<responsability>Responsabilidad</responsability>
+		<analisis>Análisis y resolución de problemas</analisis>
+		<selftaught>Autodidacta</selftaught>
+		<versatility>Adaptabilidad/ Versatibilidad</versatility>
+
+		<softwareSpace>Desarrollo de software, arquitectura de servidores y más... </softwareSpace>
+		<aboutMe>Sobre mí</aboutMe>
+		<description>Descripción:</description>
+
+		<personalDescription> ¡Hola! Mi nombre es Lucas Nicolás Greco , tengo </personalDescription>
+								<personalDescription2>  años y vivo en Zona Norte, Buenos Aires.
+                                Soy técnico con vasta experiencia dedicado al Hardware.
+                                Me gradúe de Tecnico Universitario en Programación donde aprendí los lenguajes C, C++, C#,
+                                SQL Server, HTML, CSS y Java. Tambien conceptos y practicas con GIT.
+                                Tengo conocimientos y experiencias en JavaScript, Vue.JS, Node.JS y SQL.</personalDescription2>
+
+		<developments>Desarrollos</developments>
+		<experience>años de experiencia</experience>
+		<projects>Proyectos terminados</projects>
+		<download_CV>Descargar CV</download_CV>
+
+		<information>Contacto: </information>
+		<country>País </country>
+		<localCity>Ciudad </localCity>
+		<street>Dirección </street>
+		<email>E-mail </email>
+		<signalUser>Nombre de usuario de Signal </signalUser>
+		<discordID>Discord </discordID>
+		<phone>Teléfono </phone>
+		<officePhone>Oficina </officePhone>
+		<cellPhone>Teléfono Celular Personal</cellPhone>
+		<socialNetworks>Redes </socialNetworks>
+
+		<education>Educación: </education>
+
+		<university> Universidad Técnica Nacional(UTN - FRGP) </university>
+		<universityClass>Estudiante</universityClass>
+		<universityDate>Febrero 2017 - Julio 2021</universityDate>
+		<universityDescription>Tardó un poco más de lo que anticipé,
+ya que también estaba trabajando a tiempo parcial mientras lidiaba con algunos problemas familiares.
+Durante mi tiempo en la universidad aprendí a programar en C, C++, algo de C#,
+y un poco de Java, así como CSS y Javascript para las aplicaciones web front-end.
+Finalmente me gradué como Ingeniero Programador de Software en 2021.</universityDescription>
+
+		<selftaughtStudies>Programación de bajo nivel (autodidacta)</selftaughtStudies>
+		<selftaughtStudiesClass>Estudiante </selftaughtStudiesClass>
+		<selftaughtStudiesDate>Julio 2017 - Dic 2017 </selftaughtStudiesDate>
+		<selftaughtStudiesDescription>Tomé un curso acelerado investigando programación de bajo nivel que incluía ensamblador, Bash, shell, lote,
+y bat scripting, para aprender a automatizar servicios (Linux), optimizar el rendimiento (Windows),
+y administrar diferentes tareas y recursos en diferentes sistemas operativos. </selftaughtStudiesDescription>
+
+		<selftaughtWeb> Cursos de desarrollo Web(Varios) </selftaughtWeb>
+		<selftaughtWebClass>Estudiante</selftaughtWebClass>
+		<selftaughtWebDate>Enero 2018 - julio 2021</selftaughtWebDate>
+		<selftaughtWebDescription> </selftaughtWebDescription>
+
+		<english> Inglés(F.C.E.) </english>
+		<englishClass>Estudiante</englishClass>
+		<englishDate>Enero 2016 - Diciembre 2016</englishDate>
+		<englishDescription>Después de 6 años de estudiar inglés, me tomé todo el año para prepararme para el examen final del First Certificate of English. </englishDescription>
+
+		<technician> Técnico Electro-Mecánico(Instituto Doctor Juan Segundo Fernández) </technician>
+		<technicianClass>Estudiante</technicianClass>
+		<technicianDate>Marzo 2009 - Diciembre 2015</technicianDate>
+		<technicianDescription>Estudié en un secudario tecnico donde me recibí de técnico electro-mecánico,en el mismo aprendi sobre Carpinteria, Electricidad, Programación de bajo nivel, Automatismos con PLC's, Diseño de planos a mano y con AutoCAD y CAD 3D, Manejo de torno paralelo,Fresa, Tornos  CNC y centro de mecanizado. Me recibí en 2015 ya que en argentina los técnicos hacen 1 año mas de secundario para terminar de especializarse profecionalmente.
+		 </technicianDescription>
+		 <technicianCertificate>Título</technicianCertificate>
+
+		<workHistory> Experiencia laboral (en general): </workHistory>
+
+		<work1position>Desarrollador en JavaScript</work1position>
+		<work1date>Julio 2021 - Octubre 2022</work1date>
+		<work1description> Desarrollador en JavaScript:
+                            - Programación y desarrollo a medida del cliente sobre plataforma web
+                            Esker con integración con SAP.
+                            - Automatización de toma de pedidos vía interfaz WEB y Mobile.
+                            - Integración con diferentes APIs a través de web services SOAP y
+                            REST, e integraciones a SAP.
+                            - Soporte a clientes internacionales y nacionales vía mail/reuniones.</work1description>
+		<work2position>Desarrollador/soporte</work2position>
+		<work2date>Marzo 2022 - Agosto 2022</work2date>
+		<work2description> Desarrollador en JavaScript:
+		- Programación y desarrollo a medida del cliente sobre plataforma web
+                            Esker con integración con SAP.
+                            - Automatización de toma de pedidos vía interfaz WEB
+                          -Soporte de Esker a clientes de Techdata en APAC/EMEA/USA </work2description>
+
+		<work5position>Secretario de la oficina de Posgrados / Secretario de la oficina de Ingenieria Automotriz</work5position>
+		<work5date>Febrero 2019 - Octubre 2021</work5date>
+		<work5description>Tareas de oficina (Varias):
+                            - Alta de alumnos
+                            - Verificacion/cierre de presupuestos
+                            - Carga de notas de ambas oficinas dentro del sistema interno de la facultad(SYSACAD)
+                            - Mantenimiento de los equipos(Proyectores,Notebooks,Redes)
+                            - Mantenimiento de la computadoras de la oficina asi como tambien Instalacion de software de oficina (suite de Office, etc.).</work5description>
+		<work3position>Reparación de PC's</work3position>
+		<work3date>Enero 2016 - Julio 2021</work3date>
+		<work3description>Armado/limpieza/Mantenimiento de Pc's, NAS Servers, Instalaciones de red
+                            Tareas de mantenimiento (Varias):
+                            - Backup/formateo de discos duros.
+                            - Instalacion de SO(Windows/Linux).
+                            - Optimizacion de windows 10(Para computadores de bajos recursos).
+                            - Diagnostico y solucion de errores.
+                            - Cambio de componentes(Pastas termicas, y otros componentes).</work3description>
+		<work4position>Tecnico Electromecánico</work4position>
+		<work4date>Enero 2015 - Enero 2016</work4date>
+		<work4description>Mantenimiento electro-mecánico de Hidrolavadoras Industriales:
+                            - Diagnostico y solucion de problemas Mecanicos, electricos, o de otra índole.
+                            - Limpieza, mantenimiento y cambio de Valvulas de presion.
+                            - Limpieza, mantenimiento de sistema de calderas.
+                            - Mantenimiento y cambio de PLC's y otros componentes electricos.</work4description>
+		
+	</es>
+	<de>
+
+		<profession>Softwareentwickler</profession>
+		<residence>Residenz:</residence>
+		<city>Stadt:</city>
+		<age>Alter:</age>
+
+		<languages>Sprachen:</languages>
+		<languages_1>Spanisch</languages_1>
+		<languages_2>Englisch</languages_2>
+		<languages_3>Deutsch</languages_3>
+		<hard_skills>Schwierige Fähigkeiten:</hard_skills>
+		<git_knowledge>GIT-Kenntnisse</git_knowledge>
+		<database_knowledge>Nutzung der SQL/MySQL-Datenbank</database_knowledge>
+		<scrum_knowledge>Scrum</scrum_knowledge>
+		<server_infrastructure>Serverinfrastruktur</server_infrastructure>
+		<linux_knowledge>Verwendung von Kali Linux</linux_knowledge>
+
+		<soft_skills> Soft Skills:</soft_skills>
+		<focus_Group>Team Work</focus_Group>
+		<companionship>Fellowship</companionship>
+		<dialog>Dialogue capacity</dialog>
+		<leadership>Leadership</leadership>
+		<responsability>Responsibility</responsability>
+		<analisis>Analysis and problem solving</analisis>
+		<selftaught>Self taught</selftaught>
+		<versatility>Adaptability/versatility </versatility>
+
+		<developments>Entwicklungen</developments>
+		<softwareSpace>Softwareentwicklung, Serverarchitektur und mehr ... </softwareSpace>
+		<aboutMe>Über mich</aboutMe>
+		<description>Beschreibung:</description>
+		<personalDescription> Hallo! Mein Name ist Lucas Nicolás Greco, ich bin </personalDescription>
+								<personalDescription2> Jahre alt und lebe in Zona Norte, Buenos Aires.
+                                Ich bin ein Techniker mit umfangreicher Erfahrung im Bereich Hardware.
+                                Ich habe meinen Abschluss als Universitätstechniker in Programmierung gemacht und dort die Sprachen C, C++, C#,
+                                SQL Server, HTML, CSS und Java. Auch Konzepte und Praktiken mit GIT.
+                                Ich verfüge über Kenntnisse und Erfahrung in JavaScript, Vue.JS, Node.JS und SQL.</personalDescription2>
+
+		<experience>Jahre Erfahrung</experience>
+		<projects>Fertige Projekte</projects>
+		<download_CV>Download CV</download_CV>
+
+		<information>Kontakt </information>
+		<country>Staat: </country>
+		<localCity>Stadt:</localCity>
+		<street>Straße: </street>
+		<email>Email: </email>
+		<signalUser>Signal Nickname: </signalUser>
+		<discordID>Discord: </discordID>
+		<phone>Telefonnummer: </phone>
+		<officePhone>Büro-Telefonnummer: </officePhone>
+		<cellPhone>Handynummer: </cellPhone>
+		<socialNetworks>In Kontakt kommen </socialNetworks>
+
+		<education>Bildung: </education>
+
+<university> Nationale Technische Universität (UTN – FRGP) </university>
+<universityClass>Student</universityClass>
+<universityDate>Februar 2017 - Juli 2021</universityDate>
+<universityDescription>Es hat etwas länger gedauert, als ich erwartet hatte,
+da er auch Teilzeit arbeitete und sich gleichzeitig um einige familiäre Probleme kümmerte.
+Während meines Studiums lernte ich das Programmieren in C, C++, etwas C#,
+und ein bisschen Java sowie CSS und Javascript für die Front-End-Webanwendungen.
+Im Jahr 2021 habe ich schließlich meinen Abschluss als Software Programmer Engineer gemacht.</universityDescription>
+
+<selftaughtStudies>Low-Level-Programmierung (Autodidakt)</selftaughtStudies>
+<selftaughtStudiesClass>Student </selftaughtStudiesClass>
+<selftaughtStudiesDate>Juli 2017 - Dezember 2017 </selftaughtStudiesDate>
+<selftaughtStudiesDescription>Ich habe an einem Crashkurs teilgenommen, in dem ich mich mit Low-Level-Programmierung befasst habe, die Assembler, Bash, Shell, Batch,
+und Bat-Scripting, um zu lernen, wie man Dienste automatisiert (Linux), die Leistung optimiert (Windows),
+und verwalten Sie verschiedene Aufgaben und Ressourcen auf verschiedenen Betriebssystemen. </selftaughtStudiesDescription>
+
+<selftaughtWeb> Webentwicklungskurse (verschiedene) </selftaughtWeb>
+<selftaughtWebClass>Student</selftaughtWebClass>
+<selftaughtWebDate>Januar 2018 - Juli 2021</selftaughtWebDate>
+<selftaughtWebDescription> </selftaughtWebDescription>
+
+<english> English(F.C.E.) </english>
+<englishClass>Student</englishClass>
+<englishDate>Januar 2016 - Dezember 2016</englishDate>
+<englishDescription>Nachdem ich sechs Jahre lang Englisch gelernt hatte, bereitete ich mich das ganze Jahr auf die Abschlussprüfung zum First Certificate of English vor. </englishDescription>
+
+<technician> Elektromechanischer Techniker (Institut Doctor Juan Segundo Fernández) </technician>
+<technicianClass>Student</technicianClass>
+<technicianDate>März 2009 – Dezember 2015</technicianDate>
+<technicianDescription>Ich habe an einer technischen Hochschule studiert, wo ich meinen Abschluss als Elektromechaniker gemacht habe. Gleichzeitig habe ich etwas über Tischlerei, Elektrizität, Low-Level-Programmierung, Automatisierung mit SPS, manuelles Entwerfen von Plänen und mit AutoCAD und 3D-CAD gelernt. Drehmaschinenhandling Parallel-, Fräser-, CNC-Drehmaschinen und Bearbeitungszentrum. Ich habe 2015 meinen Abschluss gemacht, da die Techniker in Argentinien ein weiteres Jahr an der High School absolvieren, um sich beruflich zu spezialisieren.
+</technicianDescription>
+<technicianCertificate>Qualifikation</technicianCertificate>
+
+<workHistory> Berufserfahrung (allgemein): </workHistory>
+
+<work1position>JavaScript-Entwickler</work1position>
+<work1date>Juli 2021 – Oktober 2022</work1date>
+<work1description> Entwickler in JavaScript:
+                             - Auf den Kunden zugeschnittene Programmierung und Entwicklung auf einer Webplattform
+                             Esker mit SAP-Integration.
+                             - Automatisierung der Auftragsannahme über WEB- und Mobile-Schnittstelle.
+                             - Integration mit verschiedenen APIs über SOAP-Webdienste und
+                             REST und Integrationen in SAP.
+                             - Unterstützung internationaler und nationaler Kunden per Post/Meetings.</work1description>
+<work2position>Entwickler/Support</work2position>
+<work2date>März 2022 – August 2022</work2date>
+<work2description> Entwickler in JavaScript:
+- Auf den Kunden zugeschnittene Programmierung und Entwicklung auf einer Webplattform
+                             Esker mit SAP-Integration.
+                             - Automatisierung der Auftragsannahme über WEB-Schnittstelle
+                           -Esker-Unterstützung für Techdata-Kunden in APAC/EMEA/USA </work2description>
+<work5position>Sekretär des Postgraduiertenbüros / Sekretär des Büros für Fahrzeugtechnik</work5position>
+<work5date>Februar 2019 – Oktober 2021</work5date>
+<work5description>Büroaufgaben (verschiedene):
+                             - Anmeldung der Studierenden
+                             - Überprüfung/Abschluss von Budgets
+                             - Hochladen der Qualifikationen beider Ämter innerhalb des internen Systems der Universität (SYSACAD)
+                             - Gerätewartung (Projektoren, Notebooks, Netzwerke)
+                             - Wartung von Bürocomputern sowie Installation von Bürosoftware (Office-Suite usw.).</work5description>
+<work3position>PC-Reparatur</work3position>
+<work3date>Januar 2016 – Juli 2021</work3date>
+<work3description>Montage/Reinigung/Wartung von PCs, NAS-Servern, Netzwerkinstallationen
+                             Wartungsaufgaben (verschiedene):
+                             - Sicherung/Formatierung von Festplatten.
+                             - Betriebssysteminstallation (Windows/Linux).
+                             - Windows 10-Optimierung (für Computer mit geringen Ressourcen).
+                             - Diagnose und Lösung von Fehlern.
+                             - Austausch von Komponenten (Wärmeleitpasten und andere Komponenten).</work3description>
+<work4position>Elektromechaniker</work4position>
+<work4date>Januar 2015 – Januar 2016</work4date>
+<work4description>Elektromechanische Wartung von Industrie-Hochdruckreinigern:
+                             - Diagnose und Lösung mechanischer, elektrischer oder anderer Probleme.
+                             - Reinigung, Wartung und Austausch von Druckventilen.
+                             - Reinigung, Wartung der Kesselanlage.
+                             - Wartung und Austausch von SPSen und anderen elektrischen Komponenten.</work4description>
+	</de>
+</translation>
