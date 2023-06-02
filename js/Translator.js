@@ -1,10 +1,11 @@
-const xhr = new XMLHttpRequest();
-
-xhr.onreadystatechange = function() {
-	if (xhr.readyState === XMLHttpRequest.DONE) {
-		if (xhr.status === 200) {
-			const translation = xhr.responseXML;
-			const select = document.getElementById('language-select');
+function translateContent(lang) {
+    const xhr = new XMLHttpRequest();
+    
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status === 200) {
+                const translation = xhr.responseXML;
+                const select = document.getElementById('language-select');
             if(document.title == "Home"){
             var developments = document.getElementById('developments_');
             var experience = document.getElementById('experience_');
@@ -117,8 +118,7 @@ xhr.onreadystatechange = function() {
                     
                     }
 
-			select.addEventListener('change', function() {
-				const lang = select.value;
+				
                 if(document.title == "Home"){
                 var developmentsText = translation.getElementsByTagName(lang)[0].getElementsByTagName('developments')[0].textContent;
                 var experienceText = translation.getElementsByTagName(lang)[0].getElementsByTagName('experience')[0].textContent;
@@ -130,6 +130,8 @@ xhr.onreadystatechange = function() {
                 var personalDescriptionText2 = translation.getElementsByTagName(lang)[0].getElementsByTagName('personalDescription2')[0].textContent;
                 
             }
+
+                  
                 const languagesText = translation.getElementsByTagName(lang)[0].getElementsByTagName('languages')[0].textContent;
                 const languagesText_1 = translation.getElementsByTagName(lang)[0].getElementsByTagName('languages_1')[0].textContent;
                 const languagesText_2 = translation.getElementsByTagName(lang)[0].getElementsByTagName('languages_2')[0].textContent;
@@ -325,15 +327,29 @@ xhr.onreadystatechange = function() {
                 work5date.textContent = work5dateText;
                 work5description.textContent = work5descriptionText;
                 }
-                
-				
-			});
-			
-			select.dispatchEvent(new Event('change'));
-		}
-	}
-};
+            }
+        }
+    };
+    
+    xhr.open('GET', 'translations/translation.xml');
+    xhr.responseType = 'document';
+    xhr.send();
+}
 
-xhr.open('GET', 'translations/translation.xml');
-xhr.responseType = 'document';
-xhr.send();
+function handleHashChange() {
+    const lang = document.getElementById('language-select').value;
+    translateContent(lang);
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    const select = document.getElementById('language-select');
+    
+    select.addEventListener('change', function() {
+        const lang = select.value;
+        translateContent(lang);
+    });
+    
+    window.addEventListener('hashchange', handleHashChange);
+
+    select.dispatchEvent(new Event('change'));
+});
