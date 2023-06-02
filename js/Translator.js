@@ -334,6 +334,6 @@ xhr.onreadystatechange = function() {
 	}
 };
 
-xhr.open('GET', 'xml_Translations/TRANSLATIONS/translation.xml');
+xhr.open('GET', 'translations/translation.xml');
 xhr.responseType = 'document';
 xhr.send();
