@@ -1,3 +1,5 @@
+const footerCopy = document.getElementById('footer-copy');
+
 function calculateYearsPassed(date) {
     const currentDate = new Date();
     const differenceInMs = currentDate - date;
@@ -10,8 +12,11 @@ function calculateYearsPassed(date) {
     const yearsPassed = calculateYearsPassed(date);
     const resultElement = document.getElementById("result");
     const resultElement2 = document.getElementById("result2");
-    if(document.title == "Home"){
     resultElement.innerHTML = `${yearsPassed}`;
     resultElement2.innerHTML = `${yearsPassed}`;
-  }
-  }, 1000);
+  
+  }, 100);
+
+  window.addEventListener('DOMContentLoaded', () => {
+    footerCopy.textContent = `© ${new Date().getFullYear()} Lucas Nicolás Greco`;
+  });

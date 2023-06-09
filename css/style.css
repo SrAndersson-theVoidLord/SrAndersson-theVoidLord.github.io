@@ -288,6 +288,13 @@ blockquote:after {
 link
 
 ------------------------------ */
+
+.inline-text {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
 .art-link {
   position: relative;
   text-transform: uppercase;
