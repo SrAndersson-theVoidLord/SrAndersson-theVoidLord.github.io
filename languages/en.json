@@ -70,7 +70,7 @@
     "technician-class":"Student",
     "technician-date":"March 2009 - December 2015",
     "technician-description":"I studied in a technical high school where I graduated as an electro-mechanical technician, in the same I learned about Carpentry, Electricity, Low-level programming, Automation with PLC's, Design of plans by hand and with AutoCAD and 3D CAD , Operation of parallel lathe, milling cutter, CNC lathes and machining center. I graduated in 2015 since in Argentina the technicians do 1 more year of high school to finish specializing professionally. ",
-    "technician-certificate":"Title",
+    "certificate":"Title",
     "work-history":"Work experience (in general):",
     "work-1-position":"JavaScript Developer",
     "work-1-date":"July 2021 - October 2022",
@@ -105,5 +105,11 @@
   "description-13":"The illustro monitor package of skins, customized to match the windows theme for Cthulu OS, a custom windows Iso that I created.",
   "description-14":"This is a monitor skin for the linux monitor software Conky manager 2.",
   "button":"See more "
-}
+},
+"languages":{
+  "language-selector":"Language:",
+  "spanish":"Spanish",
+  "english":"English",
+  "german":"German"
+  }
 }

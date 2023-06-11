@@ -36,6 +36,7 @@
      "projects":"Proyectos terminados"
   },
   "history":{
+
    "education":"Educación:",
    "university":"Universidad Técnica Nacional(UTN - FRGP). ",
    "university-class":"Estudiante",
@@ -57,7 +58,7 @@
    "technician-class":"Estudiante",
    "technician-date":"Marzo 2009 - Diciembre 2015",
    "technician-description":"Estudié en un secudario tecnico donde me recibí de técnico electro-mecánico,en el mismo aprendi sobre Carpinteria, Electricidad, Programación de bajo nivel, Automatismos con PLC's, Diseño de planos a mano y con AutoCAD y CAD 3D, Manejo de torno paralelo,Fresa, Tornos  CNC y centro de mecanizado. Me recibí en 2015 ya que en argentina los técnicos hacen 1 año mas de secundario para terminar de especializarse profecionalmente. ",
-   "technician-certificate":"Título",
+   "certificate":"Título",
    "work-history":"Experiencia laboral (en general):",
    "work-1-position":"Desarrollador en JavaScript",
    "work-1-date":"Julio 2021 - Octubre 2022",
@@ -107,5 +108,11 @@
    "description-14":"This is a monitor skin for the linux monitor software Conky manager 2.",
    "button":"Ver más "
    
+},
+"languages":{
+"language-selector":"Idioma:",
+"spanish":"Español",
+"english":"Inglés",
+"german":"Alemán"
 }
 }
