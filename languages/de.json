@@ -104,6 +104,14 @@
   "description-12":"Hackintosh ist eine ISO des MACXos-Betriebssystems, die beweisen soll, dass Apple-Betriebssysteme auf PC-Hardware ausgeführt werden können. Derzeit wird empfohlen, sie in virtuellen Maschinen zu installieren, da Sie die Datei ändern müssen, um Dual-Boot durchführen zu können vorherige Windows-Installation.",
   "description-13":"Das Illustro-Monitor-Skins-Paket, angepasst an das Windows-Design für Cthulu OS, eine benutzerdefinierte Windows-ISO, die ich erstellt habe.",
   "description-14":"Dies ist ein Monitor-Skin für die Linux-Monitorsoftware Conky Manager 2.",
+  "description-15":"Snippet-Pack, um Kommentaren in VSCode eine personalisierte Struktur zu geben.",
+  "description-16":"Malware-Pack, das in ausführbaren .bat-Dateien entworfen wurde.",
+  "description-17":"Powershell-Skript, um unerwünschte Hosts zu blockieren.",
+  "description-18":"Nur eine schnelle Vorlage für jede Art von GitHub-Projekt.",
+  "description-19":"Im Grunde ein seelenloses Projekt, das an einem langweiligen Wochenende im Jahr 2019 gemacht wurde und das ich nie zuvor fertiggestellt oder veröffentlicht habe.",
+  "description-20":"Dieses einfache C++-Programm generiert zufällige Passwörter basierend auf den Benutzervorlieben für Länge und Zeichentypen (sowohl Klein- als auch Großbuchstaben), Zahlen und Symbole.",
+  "description-21":"Ein Tool, das nahtlose Umwandlung zwischen Text und Sprache ermöglicht und die Zugänglichkeit und Kommunikationseffizienz verbessert.",
+  "description-22":"Just a quick template for any type of github proyect",
   "button":"Mehr sehen "
   
 },

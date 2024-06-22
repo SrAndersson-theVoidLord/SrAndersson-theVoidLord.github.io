@@ -104,8 +104,16 @@
    "description-10":"Cthulu OS 1.0 es un windows 10 Optimizado para el maximo rendimiento y modificado para programadores.Cuenta con varios editores de texto, IDE's, y mucho más. ",
    "description-11":"Windows 10 Debloated 1.0  es una version virgen de Cthulu OS 1.0 pero sin la customizacion que se le agrego para programadores, aun asi cuenta con las modificaciones de debloating aplicadas a Cthulu OS 1.0",
    "description-12":"Hackintosh es una ISO del sistema operativo MACXos, dedicada a probar que se puede correr S.O's de apple en hardware de PC, el mismo por el momento se recomienda instalar en maquinas virtuales por el momento ya que para poder hacer dual boot hay que modificar la instalacion de windows previa.",
-   "description-13":"The illustro monitor package of skins, customized to match the windows theme for Cthulu OS, a custom windows Iso that I created.",
-   "description-14":"This is a monitor skin for the linux monitor software Conky manager 2.",
+   "description-13":"Paquete de skins de Illustro Monitor, personalizado para coincidir con el tema de Windows para Cthulu OS, una ISO personalizada de Windows que creé.",
+   "description-14":"Esta es una skin de monitor para el software de monitorización de Linux, Conky Manager 2.",
+   "description-15":"Pack de snippets para darle estructura a los comentarios de VSCode",
+   "description-16":"Pack de Malware diseñado en archivos .bats ejecutables.",
+   "description-17":"Script hecho en Powershell para bloquear hosts no deseados/spam.",
+   "description-18":"Solo una Template rápido para cualquier tipo de proyecto de GitHub.",
+   "description-19":"Básicamente un proyecto sin alma hecho en un fin de semana de aburrimiento 2019 que nunca me molesté en terminar o publicar antes.",
+   "description-20":"Este sencillo programa en C++ genera contraseñas aleatorias basadas en las preferencias del usuario para la longitud y los tipos de caracteres (tanto minúsculas como mayúsculas), números y símbolos.",
+   "description-21":"Una herramienta que permite una conversión fluida entre texto y voz, mejorando la accesibilidad y eficiencia de la comunicación.",
+   "description-22":"Just a quick template for any type of github proyect",
    "button":"Ver más "
    
 },

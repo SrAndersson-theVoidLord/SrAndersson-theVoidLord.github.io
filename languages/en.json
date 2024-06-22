@@ -104,6 +104,14 @@
   "description-12":"Hackintosh is an ISO of the MACXos operating system, dedicated to proving that apple OS's can be run on PC hardware, for the moment it is recommended to install it in virtual machines at the moment since to be able to dual boot you have to modify the previous windows installation.",
   "description-13":"The illustro monitor package of skins, customized to match the windows theme for Cthulu OS, a custom windows Iso that I created.",
   "description-14":"This is a monitor skin for the linux monitor software Conky manager 2.",
+  "description-15":"Snippet pack to give a personalized structure to comments in VSCode.",
+  "description-16":"Malware pack designed in executable .bat files.",
+  "description-17":"Powershell script to block unwanted hosts.",
+  "description-18":"Just a quick template for any type of github proyect",
+  "description-19":"Basically a Souless proyect made in a boredom weekend during 2019 that I never bother to finish or publish before.",
+  "description-20":"This simple C++ program generates random passwords based on user preferences for length and character types (both lowercase and uppercase), numbers, and symbols",
+  "description-21":"A tool enabling seamless conversion between text and speech, enhancing accessibility and communication efficiency.",
+  "description-22":"Just a quick template for any type of github proyect",
   "button":"See more "
 },
 "languages":{
