@@ -2826,4 +2826,44 @@ html.is-animating .fade-left {
   }
 }
 
+/* Estilo del contenedor de la imagen */
+.image-container {
+  
+  background-size: cover;
+  background-position: center;
+  user-select: none; /* Evita la selección de contenido */
+}
+
+/* Capa transparente superpuesta */
+
+
+/* Animación para la capa transparente */
+
+
+/* Contenedor del video */
+
+
+/* Marca de agua */
+.watermark {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  pointer-events: none;
+}
+
+/* Filtro para efecto de blackout */
+.blackout {
+  filter: brightness(0%);
+}
+
+/* Desactivar selección de texto en toda la página */
+body {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none; /* Standard */
+}
+
+
 /*# sourceMappingURL=style.css.map */
